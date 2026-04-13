@@ -1,0 +1,25 @@
+Script contains the following features (Made specifically for Roblox)
+
+● WalkSpeed (Customization 16 - 500)
+● Jump Power (Customization 1 - 1000)
+- Infinite Jump
+● Fly (Cusomization 1 - 15)
+● Spin (Cusomization 0 - 100.00)
+● Esp (Cuszomization from 0.00 - 1.00)
+- Esp Fill
+- Esp Outline
+- Esp Name
+● NoClip
+● Server Related Tool (separate Ui + minized icon)
+- Rejoin Server
+- Server Hop
+- Small Server Hop
+● Basic Teleport (separate Ui + minized icon)
+- Type Full/Part Username = teleport to specifc player
+- Empty = Random player within server
+● Touch Fling (separate Ui + minized icon)
+Activate fling function upon collision interaction with other player
+Note:Enabling this feature may freeze your screen when your character dies. Use only when necessary.
+● FPS Unlocker
+- Removes the 240 FPS cap on the Roblox client, allowing for max FPS
+Script is clean and contains only pure features :D
